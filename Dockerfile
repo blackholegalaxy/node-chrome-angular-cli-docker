@@ -1,4 +1,4 @@
-FROM blackholegalaxy/node-chrome:latest
+FROM blackholegalaxy/node-chrome:lts
 
 MAINTAINER blackholegalaxy
 
